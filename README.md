@@ -1,4 +1,4 @@
-# Vapor-Liquid-Equilibrium
+# Vapor-Liquid-Equilibrium (Fugacity and activity coefficients)
 Simple algorithms for fugacity and activity coefficients calculation
 Must work using numpy matrices, algorithm for liquid fugacities include Grayson Streed (phigs), Peng-Robinson (philr), Soave Redlich Kwong (phil) whose parameters are Temperature, Pressure, Critical Temperature, Critical Pressure and acentric factor
 Algorithm for vapor phase fugacity (phisrk) is Soave Redlich Kwong for gas mixtures, the parameters being Temperature, Pressure Critical Temperature, Critical Pressure and acentric factor
